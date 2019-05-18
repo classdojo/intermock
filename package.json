@@ -1,5 +1,5 @@
 {
-  "name": "intermock",
+  "name": "@classdojo/intermock",
   "version": "0.0.1",
   "description": "Automatically create mock objects and JSON from TypeScript interfaces via Faker",
   "bin": {
